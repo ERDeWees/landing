@@ -1,0 +1,28 @@
+
+.banner {
+  background-image: url(https://images.unsplash.com/photo-1508052000973-75832a1f1107?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1826&q=80);
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+}
+
+  .banner h1 {
+    color: white;
+    font-size: 28px;
+  }
+
+  .banner p {
+    color: white;
+    opacity: 0.9;
+    font-size: 16px;
+    font-weight: lighter;
+    font-style: italic;
+  }
+
+  .banner-btn {
+    color: black;
+    font-weight: bold;
+    background-color: rgba(210,210,210,.8);
+    border-radius: 5px;
+    padding: 8px 20px;
+  }
